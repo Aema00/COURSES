@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2646107c-cd0c-4a70-ad8e-0d29dcb41d19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/courses/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/docker-compose-yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses/nginx/nginx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/courses_lessons/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/courses_lessons/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/courses" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="showPreview" value="true" />
@@ -91,6 +87,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/courses/courses/settings.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

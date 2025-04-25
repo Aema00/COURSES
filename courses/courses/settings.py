@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'courses_lessons',
     'rest_framework',
     'django_filters',
-    'rest_framework_swagger',
     'drf-yasg',
 
 
